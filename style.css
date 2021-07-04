@@ -4,11 +4,21 @@
     border: 30px solid green;
     border-radius: 10%;
     height: 400px;
-   width: 30%;
+   width: 45%;
    text-align: center;
    justify-content: center;
-   margin: 0 auto;
-
+   /* margin: 0 auto; */
+  
+}
+img{
+    height: 350px;
+    width: 40%;
+    display: inline;
+    display: flex;
+    margin-top: 10px;
+    display: none;
+    display: block;
+    
 }
 
 .h1{
