@@ -3,7 +3,12 @@
     background-color: coral ; 
     border: 30px solid green;
     border-radius: 10%;
+    height: 400px;
    width: 30%;
+   text-align: center;
+   justify-content: center;
+   margin: 0 auto;
+
 }
 
 .h1{
